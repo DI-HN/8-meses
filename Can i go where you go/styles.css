@@ -1,0 +1,44 @@
+body{
+    background-color: #e9a5a5;
+}
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    padding: 50px;
+    text-align: justify;
+}
+
+br{
+    padding: 50px;
+}
+
+.posdata{
+    text-align: center;
+}
+
+section {
+    text-align: center;
+}
+
+.despedida{
+    text-align: center;
+}
+
+section{
+    padding: 50px;
+}
+
+.dibujito1{
+    align-self: start;
+}
